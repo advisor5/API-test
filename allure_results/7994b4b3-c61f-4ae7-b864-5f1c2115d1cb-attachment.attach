@@ -1,0 +1,1 @@
+{'message': 'The Events list visualization type field is required.', 'errors': {'events_view_type': ['The Events list visualization type field is required.']}}
